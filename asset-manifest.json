@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/2023_JunNa/static/css/main.92cae92d.css",
+    "main.js": "/2023_JunNa/static/js/main.d9678871.js",
+    "index.html": "/2023_JunNa/index.html",
+    "main.92cae92d.css.map": "/2023_JunNa/static/css/main.92cae92d.css.map",
+    "main.d9678871.js.map": "/2023_JunNa/static/js/main.d9678871.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92cae92d.css",
+    "static/js/main.d9678871.js"
+  ]
+}
